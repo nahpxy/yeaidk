@@ -524,11 +524,6 @@ settingsp
     transition:background, border 250ms;
 }
 
-/* Nitro */
-.detailsBlock-FoDTGA{
-    background-color:var(--dark-bright);
-    border-radius:25px;
-}
 .banner-3Kac2g{
     border-radius:15px;
 }
