@@ -1564,7 +1564,7 @@ border-bottom-color: var(--popout-activeborders);
 /* rounded corners in channel list and chat-member list */
 :root .sidebar-1tnWFu.hasNotice-1s68so, .platform-win .sidebar-1tnWFu.hasNotice-1s68so, .chat-2ZfjoI, .platform-win .sidebar-1tnWFu, .sidebar-1tnWFu
 {
-    border-radius: 25px;
+    border-radius: 10px;
 }
 
 /* Voice chat fullscreen SPECIAL THANKS TO DOGGYBOOTSY FROM POWERCORD DISCORD FOR HELPING ME FIGURE OUT HOW TO CENTER SHIT, THANKS A LOT*/
